@@ -11,4 +11,4 @@ Fastest way to reach me is through the [Revolt Lounge](https://rvlt.gg/Testers) 
 
 [<img src="https://autumn.revolt.chat/attachments/T2aP669seOYxdBvbOOyiuowuxeIV389iAOe3hYPJKS/Motto%20(1).png" width="480" />](https://revolt.chat)
 
-<img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Finsertish" width="0" />
+<img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Finsertish" width="0" />
